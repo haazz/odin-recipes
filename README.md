@@ -1,6 +1,6 @@
-#Odin Recipes
-##Service
+# Odin Recipes
+## Service
 Basic recipe website.
-##Skills
+## Skills
 - HTML
 
